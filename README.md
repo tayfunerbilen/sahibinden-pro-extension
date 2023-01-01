@@ -13,9 +13,9 @@ Daha iyi bir sahibinden.com deneyimi için geliştirilmiş bir eklenti.
 - [ ] Options sayfasında; engelledigin magazalari görme ve kaldirma
 - [ ] Options sayfasında; baktığın ilanların listesi
 - [ ] Options sayfasında; cache silme
-- [ ] Ilan detayina yorum yap alanı gelmesi
-- [ ] Ilan listesinde; request aralığının ayarlardan değiştirilebilmesi
-- [ ] Seçilen filtreye göre çıkacak olan bütün ilanların fiyatlarının ortalamasını gösterme
+- [ ] İlan detayında; yorum yap alanı gelmesi
+- [ ] İlan listesinde; request aralığının ayarlardan değiştirilebilmesi
+- [ ] İlan listesinde; seçilen filtreye göre çıkacak olan bütün ilanların fiyatlarının ortalamasını gösterme
 
 ## Install
 
