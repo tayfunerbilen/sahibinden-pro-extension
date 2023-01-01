@@ -4,18 +4,18 @@ Daha iyi bir sahibinden.com deneyimi için geliştirilmiş bir eklenti.
 
 ## Features
 
-- [x] Magaza engelleme (o magazanin ilanlarini gormezsin)
-- [x] Baktigim ilanlari gizle ozelligi
-- [x] Ilan listesinde: hasar kaydi, boya, yakiti ve vites tipi eklendi
-- [x] Ilan detayinda WhatsApp ve Telegram ile mesaj gonderme
-- [ ] Ilan listesine hasar kaydi, boya olan olmayan filtresi
-- [ ] Ilan listesinde ajax alagilayip otomatik olarak listede guncelleme yapmasi
-- [ ] Options sayfasinda engelledigin magazalari gorme ve kaldirma
-- [ ] Options sayfasinda baktigin ilanlarin listesi
-- [ ] Options sayfasinda cache silme
-- [ ] Ilan detayina yorum yap alani gelmesi
-- [ ] Ilan listesinde request araliginin ayarlardan degistirilebilmesi
-- [ ] Seçilen filtreye gören çıkacak olan bütün ilanların fiyatlarının ortalamasını gösterme
+- [x] Mağaza engelleme (engellediğiniz mağazanın ilanlarını görmezsiniz)
+- [x] Baktigim ilanlari gizle özelliği
+- [x] İlan listesinde; hasar kaydı, boya, yakıtı ve vites tipi eklendi
+- [x] İlan detayinda; WhatsApp ve Telegram ile mesaj gönderme
+- [ ] İlan listesine; hasar kaydı, boya olan ya da olmayan filtresi
+- [ ] İlan listesinde; ajax algılayıp otomatik olarak listede guncelleme yapmasi
+- [ ] Options sayfasında; engelledigin magazalari görme ve kaldirma
+- [ ] Options sayfasında; baktığın ilanların listesi
+- [ ] Options sayfasında; cache silme
+- [ ] İlan detayında; yorum yap alanı gelmesi
+- [ ] İlan listesinde; request aralığının ayarlardan değiştirilebilmesi
+- [ ] İlan listesinde; seçilen filtreye göre çıkacak olan bütün ilanların fiyatlarının ortalamasını gösterme
 
 ## Install
 
